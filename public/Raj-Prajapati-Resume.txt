@@ -1,0 +1,29 @@
+Raj Prajapati
+Backend Developer / Full-Stack Developer
+
+Location: Virar, Maharashtra, India
+Email: raj.sbprj@gmail.com
+Phone: +91 99999 99999
+LinkedIn: https://www.linkedin.com/in/raj-prajapati-575661244/
+GitHub: https://github.com/rajsprajapati/portfolio
+
+Profile:
+I am a Backend Developer focused on building scalable, secure, and reliable web applications and APIs. I work primarily with Node.js, Express.js, PostgreSQL, React, and modern JavaScript technologies. I also have experience with Python, Flask, MongoDB, Docker, Git/GitHub, and AI/ML-based applications.
+
+Skills:
+- Backend: Node.js, Express.js, REST APIs, Python, Flask, JavaScript
+- Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS, Vite
+- Databases: PostgreSQL, MongoDB, pgAdmin, Sequelize
+- AI/ML: TensorFlow, OpenCV, YOLO, SSD MobileNet, ChromaDB, LangChain, Google Gemini, RAG
+- Tools: Git, GitHub, Docker, Postman, Vercel, Render
+
+Projects:
+- Person Detection & Smart CCTV Surveillance
+- Personal Book Manager
+- FitZone
+- Gym Management Application
+- Human Rights Adviser — RAG Application
+- Book Review API
+
+Summary:
+Backend-focused developer with experience in API development, database design, full-stack projects, and AI-powered applications.

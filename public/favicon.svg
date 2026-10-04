@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Raj Prajapati logo">
+  <rect width="64" height="64" rx="16" fill="#0b1120"/>
+  <path d="M18 46V18h11.5c8.1 0 13.5 5.2 13.5 13.8S37.6 46 29.5 46H18zm10.2-7.5h3c4.6 0 7.7-2.8 7.7-7.2 0-4.4-3.1-7.1-7.7-7.1h-3v14.3z" fill="#38bdf8"/>
+  <circle cx="47" cy="18" r="4" fill="#e2e8f0"/>
+</svg>
